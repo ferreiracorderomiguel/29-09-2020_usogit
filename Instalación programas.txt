@@ -1,0 +1,5 @@
+- Descargar git y comprobar en powershell
+- Descargar mongodb -> community server y quitar mongo compass
+- Instalar mongo compass
+- Ir a \c -> Archivos de programa -> MongoDB -> Server -> 4.X -> bin -> Una vez ya estmos aquí copiamos el directorio de la barra de arriba para luego.
+- Panel de control -> Sistema -> Configuración avanzada del sistema -> Variables de entorno -> Pincha en path y añadir directorio copiado anteriormente.
